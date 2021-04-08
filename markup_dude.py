@@ -4,6 +4,9 @@
 # Import required libraries
 import argparse
 
+# Parse markdown
+def parse_md(md_file):
+    
 
 # The main function
 def main():
