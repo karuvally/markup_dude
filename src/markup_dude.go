@@ -1,9 +1,12 @@
 // markup_dude, Golang edition!
 
+// This is the main package
+package main
+
 // Import required libraries
 import (
     "os"
-    "fmt"
+    "log"
 )
 
 // The main function
